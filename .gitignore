@@ -3,3 +3,4 @@ gcp_service_account.json
 data/
 airflow-venv/
 logs/
+DockerFile
