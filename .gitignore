@@ -1,6 +1,5 @@
 gcp_service_account.json
 .env
 data/
-airflow-venv/
+airflow-project/
 logs/
-DockerFile
